@@ -1,0 +1,4 @@
+build/
+[br].sh
+external/googletest/*
+.vscode/
