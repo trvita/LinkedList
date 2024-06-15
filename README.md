@@ -1,7 +1,9 @@
-# Soundex Hash groupping utility
+# Linked List class with stl-compatible iterators
 
-usage:
+build:
 
 > cmake -S . -B build && cmake --build build
->
-> ./build/bin/soundexHashGroup input output
+
+run tests:
+
+> cd build && ctest && cd ..
